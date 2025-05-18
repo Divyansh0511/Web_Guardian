@@ -1,14 +1,9 @@
 # Web Guardian is a web vulnerability assesment tool that focuses on automating the prosess of finding bugs on a website 
 
 $ go run WebGuardian.go                               
+![image](https://github.com/user-attachments/assets/6ae04ef2-eaea-47ec-ab6b-ae5ac390c685)
 
-██╗    ██╗███████╗██████╗  ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
-██║    ██║██╔════╝██╔══██╗██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
-██║ █╗ ██║█████╗  ██████╔╝██║  ███╗██║   ██║███████║██████╔╝██║  ██║██║███████║██╔██╗ ██║
-██║███╗██║██╔══╝  ██╔══██╗██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║██╔══██║██║╚██╗██║
-╚███╔███╔╝███████╗██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝██║██║  ██║██║ ╚████║
- ╚══╝╚══╝ ╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝  
-                          Automated Web Security Sentinel Suite
+
 
     Contributer:
     Singh Divya Madan:        https://github.com/Divya-03s
